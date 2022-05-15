@@ -3,6 +3,4 @@ public class GradingSystem {
 
         System.out.print("5");
     }
-
-
 }
